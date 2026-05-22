@@ -35,7 +35,7 @@ object arenaAGranel {
 object bateria {
     var property tieneMisil = false
     method peso() {
-        if (tieneMisil)
+        if ()
             return 300
         else
             100
@@ -44,4 +44,7 @@ object bateria {
 }
 object embalaje{
     var property objetoDentro = bateria
+}
+object hola{
+    
 }
